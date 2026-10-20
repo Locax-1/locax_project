@@ -98,7 +98,7 @@ $$
 $$
 目标是最小化损失来学习参数:
 $$
-\mathbf{w}^*, b^*=arg\min_{\mathbf{w},b}\ell(\mathbf{X}, \mathbf{y}, \mathbf{w}, b) 
+\mathbf{w}^*, b^*=\arg\min_{\mathbf{w},b}\ell(\mathbf{X}, \mathbf{y}, \mathbf{w}, b) 
 $$
 我们首先做以下变换:(之后$\mathbf{X},b$都代表下述)
 $$
